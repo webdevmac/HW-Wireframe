@@ -1,0 +1,23 @@
+
+
+
+.head1 {
+    float: clear;text-align: center;padding: 5px;
+    background-color: beige;margin: 20px;color: blue
+}
+
+#aboutme {
+    font-size: 20px;margin-top: 70px
+
+}
+
+.para1 {
+    float: left;margin-left: 70px
+}
+
+.bio {
+    float: left;margin-left: 20px;font-family: cursive;font-display: bold
+}
+
+.contacts {
+    float: right;margin-right: 30px;margin-top: 55px
